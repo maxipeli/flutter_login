@@ -21,6 +21,7 @@ import 'package:flutter_login/src/widgets/fade_in.dart';
 import 'package:flutter_login/src/widgets/term_of_service_checkbox.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:provider/provider.dart';
+import 'package:flutter_login/src/models/user_form_field.dart';
 import 'package:sign_in_button/sign_in_button.dart';
 
 part 'additional_signup_card.dart';
